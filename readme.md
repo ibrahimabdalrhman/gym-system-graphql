@@ -39,7 +39,7 @@ This project follows a **modular architecture**, which separates different funct
 ## Directory Structure
 
 ```bash
-gym-management-system
+gym-system-graphql
 │
 ├── config            # Configuration files
 ├── models            # Mongoose models
