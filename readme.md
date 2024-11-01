@@ -59,8 +59,8 @@ gym-management-system
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd gym-management-system
+   git clone https://github.com/ibrahimabdalrhman/gym-system-graphql.git
+   cd gym-system-graphql
    ```
 2. **Install Dependencies**
     ```bash
