@@ -25,9 +25,7 @@ This project follows a **modular architecture**, which separates different funct
   - Register and log in users.
   - Retrieve user information.
 
-- **Gym Management**
 
-  - Create and manage gym details (name, location, capacity).
 
 - **Membership Management**
 
@@ -37,8 +35,6 @@ This project follows a **modular architecture**, which separates different funct
 
   - Create and manage trainers (name, specialization, experience).
 
-- **Class Management**
-  - Create and manage classes, linking them to trainers and managing attendees.
 
 ## Directory Structure
 
